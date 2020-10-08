@@ -1,6 +1,6 @@
 using System;
 
-namespace PIII_Lab_1
+namespace PIII_Lab
 {
     class Program
     {
